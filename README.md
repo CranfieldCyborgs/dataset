@@ -1,4 +1,4 @@
-# dataset
+# dataset  (140 images till now)
 # this folder is set for the dataset and any relative notification
 
 # notice 1 (jiaqi)
